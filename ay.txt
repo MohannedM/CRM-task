@@ -1,0 +1,19 @@
+       <v-layout justify-center>
+<v-col>
+
+          <div class="overline mt-2 pl-2 red--text accent-2 headline" text> <p>KPIs (last month)</p></div>
+
+          <v-layout justify-center>
+        <v-flex xs12 sm6>
+          <v-select
+            :items="items"
+            label="Company"
+            class="red--text accent-2"
+          ></v-select>
+        </v-flex>
+  
+          </v-layout>
+
+</v-col>
+
+    </v-layout>
