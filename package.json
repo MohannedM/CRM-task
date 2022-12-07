@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.1.5",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "meteor-node-stubs": "^0.4.1",
     "picker": "^0.1.4",
     "vue": "^2.5.22",
